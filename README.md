@@ -5,7 +5,9 @@
 - 👩🏻‍💻 I’m currently learning Angural & React. 
 - 👯 I’m looking to collaborate with people and make great apps! 
 - ✌🏼 2020 Goals: Learn more and be more productive! 
-- 🌠 Fun fact: I love to draw and design and help people!
+- 🌠 Fun fact: I love to draw, design and help people!
+
+<p><a href=“https://jul.fyi” target=“_blank”>:globe_with_meridians: Check out my website</a></p>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
