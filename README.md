@@ -7,7 +7,7 @@
 - ✌🏼 2020 Goals: Learn more and be more productive! 
 - 🌠 Fun fact: I love to draw, design and help people!
 
-<p><a href=“https://jul.fyi” target=“_blank”>:globe_with_meridians: Check out my website</a></p>
+<a href="https://jul.fyi" target="_blank">:globe_with_meridians: Check out my website</a>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
